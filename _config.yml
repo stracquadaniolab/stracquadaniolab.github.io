@@ -1,0 +1,19 @@
+#
+# _config.yml file
+#
+title: Stracquadanio Laboratory at University of Essex
+author: Giovanni Stracquadanio
+email: g.stracquadanio@essex.ac.uk
+description: > #
+   We are interested in computational methods to design and analyse biological systems.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
