@@ -20,7 +20,8 @@ Positions will be posted on this page and on institutional websites as soon as
 as they become available.  
 However, if you are eligible for a funding scheme or
 a fellowship and you want to join the lab, please send an email to
-Giovanni Stracquadanio attaching the following documents:   
+Giovanni Stracquadanio attaching the following documents:  
+ 
 *  Cover letter, addressing how you fit into lab and one or more area you want to work
   among:
   -  Synthetic biology informatics, graph/network clustering and analysis, big data analysis, applied optimization.
