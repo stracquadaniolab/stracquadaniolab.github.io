@@ -2,12 +2,58 @@
 layout: default
 title: Research
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia, nisl et tincidunt sollicitudin, justo lectus suscipit eros, vel pharetra sapien justo et purus. Nam sit amet auctor odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras cursus, velit quis feugiat luctus, magna metus mattis tortor, non mattis lacus justo nec nulla. Vestibulum rhoncus neque non elit ultricies mollis. Vivamus elementum enim a accumsan pulvinar. Phasellus auctor, lacus sed consequat eleifend, dolor enim volutpat quam, vel finibus ex orci sed velit. Curabitur eu odio mauris. Suspendisse finibus, lorem ac lacinia lacinia, ex urna vehicula quam, et pretium tortor purus vel urna. Suspendisse rutrum sed leo nec auctor. Quisque condimentum porta vulputate. Aenean lorem justo, porttitor nec fringilla nec, ullamcorper eget urna. Sed bibendum mollis elit at bibendum. Nulla nec elit eget lectus eleifend porta.
+The availability of high-throughput genomics data and the rapid development of synthetic biology techniques are changing the way we generate and test hypotheses on cellular functions and disease. Our research work focuses on developing algorithms to harness these technologies and answer fundamental biological and clinical questions.
 
-Quisque ornare nisi nisl, non pretium urna efficitur a. Curabitur vulputate lectus in sodales mollis. Nunc eget magna ut tortor vehicula venenatis. Ut quis aliquam lectus. Aenean mi urna, semper sit amet nunc eu, convallis scelerisque urna. Donec convallis euismod interdum. Nam et porta magna. Phasellus massa ex, gravida non interdum non, ullamcorper nec lacus. Vestibulum laoreet feugiat augue, id efficitur sem porttitor at. In luctus vestibulum finibus.
+##### Synthetic biology informatics
+Recent advances in DNA synthesis technologies opened the path to engineer biological systems, from genes to pathways to entire eukaryotic genomes.  
+We have been at the forefront in developing computational methods for synthetic genome engineering. We used our methods to build the synthetic yeast genome [(Sc2.0)](http://www.syntheticyeast.org), the first eukaryotic organism designed on a computer.  
+We then used this *new* organism to identify minimal genomes compatible with life.
+To do that, we developed algorithms to identify structural variation from deep-sequencing data, which allowed us to identify minimal genome patterns associated with wild-type fitness.  
 
-Integer ut tincidunt metus. Aliquam quis aliquam magna, non efficitur nibh. Quisque eu turpis ultricies, posuere velit nec, imperdiet nisl. Ut imperdiet lectus laoreet risus molestie, ut tincidunt quam congue. Vestibulum dolor augue, auctor at accumsan quis, volutpat non lorem. Donec imperdiet magna quis urna efficitur, quis molestie arcu tincidunt. Donec magna justo, malesuada a leo eget, luctus aliquet nunc. Donec placerat ullamcorper nibh, et luctus libero tristique id. Integer blandit massa sit amet finibus vestibulum. Vestibulum arcu augue, porttitor at volutpat nec, tincidunt commodo diam. Vestibulum commodo nibh eget felis pellentesque, sit amet fringilla ex feugiat. Curabitur lacinia ex elit. Nunc vestibulum massa ac enim consectetur, eu sodales justo aliquet.
+![Biological Design Automation][bda_framework]
 
-Vivamus auctor finibus dui. Proin scelerisque consectetur nibh eget aliquam. Nam fermentum lectus nulla, maximus tincidunt lacus imperdiet sed. Donec lobortis, ante non posuere dictum, diam dolor auctor elit, et volutpat ipsum lacus ut diam. Sed sed aliquam elit. Sed eget condimentum nulla. Praesent iaculis non orci et molestie. Fusce vulputate vulputate ante, in feugiat nibh consequat eu. Nam odio libero, maximus a auctor vel, imperdiet et orci. Etiam lectus est, placerat sit amet tempus ac, vehicula et risus. Aliquam sit amet lacinia metus. Vivamus vel convallis risus. Donec blandit tellus sed orci rutrum, nec congue justo bibendum. Maecenas ornare, massa et tempus finibus, nibh ligula dignissim quam, eu elementum purus ex dignissim odio. Curabitur commodo consequat est, et pretium dolor accumsan ac. Duis diam ex, aliquet non ullamcorper eu, tristique faucibus dolor.
+Our ultimate goal is to build biological systems at same pace we have been designing
+electronic circuits for the past 35 years. Ironically, while there are groundbreaking advances in DNA synthesis and high-throughput screening platforms, current algorithms are not keeping up with the increasing design complexity of new synthetic
+constructs. The most challenging problems are mainly the lack of robust models to associate genotype to phenotype and the shortage of optimisation methods to
+sample the combinatorial genomic space.  
+We are addressing these problems by designing phenotype prediction algorithms
+based on deep learning and combinatorial evolutionary optimisation methods to design biological systems. Through close collaboration with biologists, we aim at
+establishing a *design-build-test* framework for the rapid design and
+synthesis of any biological system.
 
-Mauris faucibus nibh vel quam placerat faucibus. Donec dignissim nisl ac nisl porta iaculis. Donec at viverra massa, in aliquam lectus. In ornare tincidunt odio quis ultricies. Donec leo enim, accumsan tincidunt mattis sit amet, mollis sed augue. Suspendisse lectus nulla, imperdiet nec tincidunt sit amet, fermentum et lacus. Morbi vel dui lectus. Donec pharetra aliquet tincidunt. Duis porttitor vitae purus id facilisis.
+###### **Collaborations**
+* [Joel S. Bader](http://www.baderzone.org), Johns Hopkins University, USA
+* [Jef D. Boeke](http://www.med.nyu.edu/biosketch/boekej01), NYU Institute for Systems Genetics, USA
+
+##### Biological network analysis
+High-throughput sequencing technologies allowed us to discover hundreds of mutations associated with different diseases. Despite these findings, major challenges remain in translating these associations into clinical applications. Most cellular functions are accomplished by complex interactions among proteins, it is necessary to evaluate these mutations in the broader context of the human interactome.
+We are developing data-fusion and network clustering algorithms that take advantage
+of big biological datasets to generate testable hypotheses of disease susceptibility,
+progression and outcome.  
+![biological network analysis][bio_network_analysis]
+
+We have shown that statistical enrichment methods are powerful tools to identify key networks in cancer. We are now developing methods to identify
+statistically significant clusters of genes/proteins that associate with a
+phenotype using multiple layers of information (i.e. RNA-seq, Mass-spec).
+We are particularly interested in cancer, and specifically at changes in
+angiogenesis factors as a response to different treatments.
+
+###### **Collaborations**
+* [Francesco Pezzella](http://www.rdm.ox.ac.uk/principal-investigators/researcher/francesco-pezzella-2), University of Oxford, UK
+
+##### Applied optimization
+Designing efficient and robust systems often requires the solution of large scale optimization problems. Often, the objective function is expensive to evaluate, it is the output of a simulator or the derivatives are not available. Indeed, the objective function can be considered a "black-box", whose only known information being the input and the output.
+We are interested in developing hybrid optimization methods aiming at solving
+complex optimization problems efficiently. We are particularly interested in
+combining stochastic sampling methods (i.e. evolutionary algorithms) with
+deterministic optimization methods with performance guarantee. We have been
+successful in proposing a number of approaches to several optimization problems
+in biology and industrial design, ranging from protein structure prediction to
+electronic devices design.
+
+###### **Collaborations**
+* [Panos Pardalos](http://www.ise.ufl.edu/pardalos/), University of Florida, USA
+
+
+[bda_framework]:/images/bda_framework.svg "Biological Design Automation"
+[bio_network_analysis]:/images/bio_net_analysis.svg "Biological Network Analysis"
