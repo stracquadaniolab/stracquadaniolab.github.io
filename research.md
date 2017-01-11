@@ -4,7 +4,7 @@ title: Research
 ---
 The availability of high-throughput genomics data and the rapid development of synthetic biology techniques are changing the way we generate and test hypotheses on cellular functions and disease. Our research work focuses on developing algorithms to harness these technologies and answer fundamental biological and clinical questions.
 
-##### Synthetic biology informatics
+##### Computational Synthetic biology
 Recent advances in DNA synthesis technologies opened the path to engineer biological systems, from genes to pathways to entire eukaryotic genomes.  
 We have been at the forefront in developing computational methods for synthetic genome engineering. We used our methods to build the synthetic yeast genome [(Sc2.0)](http://www.syntheticyeast.org), the first eukaryotic organism designed on a computer.  
 We then used this *new* organism to identify minimal genomes compatible with life.
@@ -30,6 +30,7 @@ High-throughput sequencing technologies allowed us to discover hundreds of mutat
 We are developing data-fusion and network clustering algorithms that take advantage
 of big biological datasets to generate testable hypotheses of disease susceptibility,
 progression and outcome.  
+  
 ![biological network analysis][bio_network_analysis]
 
 We have shown that statistical enrichment methods are powerful tools to identify key networks in cancer. We are now developing methods to identify
