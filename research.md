@@ -13,11 +13,12 @@ To do that, we developed algorithms to identify structural variation from deep-s
 ![Biological Design Automation][bda_framework]
 
 Our ultimate goal is to build biological systems at same pace we have been designing
-electronic circuits for the past 35 years. Ironically, while there are groundbreaking advances in DNA synthesis and high-throughput screening platforms, current algorithms are not keeping up with the increasing design complexity of new synthetic
-constructs. The most challenging problems are mainly the lack of robust models to associate genotype to phenotype and the shortage of optimisation methods to
-sample the combinatorial genomic space.  
+electronic circuits for the past 30 years. Ironically, while there are groundbreaking advances in DNA synthesis and high-throughput screening platforms, current algorithms are not keeping up with the increasing design complexity of new synthetic constructs.
+The lack of robust models to associate genotype to phenotype and
+a shortage of optimisation methods to sample the combinatorial genomic space
+represent the bottle-neck to automatic design of new biological systems.  
 We are addressing these problems by designing phenotype prediction algorithms
-based on deep learning and combinatorial evolutionary optimisation methods to design biological systems. Through close collaboration with biologists, we aim at
+based on deep learning and combinatorial evolutionary optimisation methods to design biological systems. Working together with biologists, we aim at
 establishing a *design-build-test* framework for the rapid design and
 synthesis of any biological system.
 
@@ -30,22 +31,22 @@ High-throughput sequencing technologies allowed us to discover hundreds of mutat
 We are developing data-fusion and network clustering algorithms that take advantage
 of big biological datasets to generate testable hypotheses of disease susceptibility,
 progression and outcome.  
-  
+
 ![biological network analysis][bio_network_analysis]
 
 We have shown that statistical enrichment methods are powerful tools to identify key networks in cancer. We are now developing methods to identify
 statistically significant clusters of genes/proteins that associate with a
 phenotype using multiple layers of information (i.e. RNA-seq, Mass-spec).
 We are particularly interested in cancer, and specifically at changes in
-angiogenesis factors as a response to different treatments.
+angiogenic factors as a response to different treatments.
 
 ###### **Collaborations**
 * [Francesco Pezzella](http://www.rdm.ox.ac.uk/principal-investigators/researcher/francesco-pezzella-2), University of Oxford, UK
 
 ##### Applied optimization
 Designing efficient and robust systems often requires the solution of large scale optimization problems. Often, the objective function is expensive to evaluate, it is the output of a simulator or the derivatives are not available. Indeed, the objective function can be considered a "black-box", whose only known information being the input and the output.
-We are interested in developing hybrid optimization methods aiming at solving
-complex optimization problems efficiently. We are particularly interested in
+We are interested in developing hybrid optimization methods aiming at efficiently solving
+complex problems. We are particularly interested in
 combining stochastic sampling methods (i.e. evolutionary algorithms) with
 deterministic optimization methods with performance guarantee. We have been
 successful in proposing a number of approaches to several optimization problems
