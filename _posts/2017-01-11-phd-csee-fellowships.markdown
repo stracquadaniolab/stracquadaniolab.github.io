@@ -11,4 +11,4 @@ network modeling of transcriptomic and proteomic data.
 Students with interests in optimization and evolutionary computation
 are encouraged to apply as well.  
 
-For any further information, please contact me by email at:  (mailto:g.stracquadanio@essex.ac.uk)[g.stracquadanio (at) essex.ac.uk]
+For any further information, please contact me by email at:  [g.stracquadanio (at) essex.ac.uk](mailto:g.stracquadanio@essex.ac.uk)
