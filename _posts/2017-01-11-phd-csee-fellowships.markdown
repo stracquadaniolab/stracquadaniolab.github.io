@@ -10,8 +10,8 @@ The ideal candidate is interested in designing new biological design automation
 methods for genome scale projects and/or network modelling of genomic,
 transcriptomic and proteomic data.  
 Candidates interested in developing optimization algorithms for biological problems are encouraged to apply as well.  
-
 A summary of the research work in the lab can be found on the  [research](http://www.stracquadanio.me/research) page.
 
-The deadline for the application is 28/02/2017, but it is highly recommended to
-contact me in advance by email at: [g.stracquadanio (at) essex.ac.uk](mailto:g.stracquadanio@essex.ac.uk)
+Candidates interested in the position should contact me in advance by email at: [g.stracquadanio (at) essex.ac.uk](mailto:g.stracquadanio@essex.ac.uk)
+
+The deadline for the application is 28/02/2017; info about the application can be found on the [Essex CSEE website](https://www.essex.ac.uk/csee/fees_and_scholarships/).
