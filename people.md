@@ -15,6 +15,10 @@ University of Esssex, Wivenhoe Park, Colchester CO4 3SQ, UK
 email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk  
 [Curriculum vitae](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
 
+##### Students #####
+**William Miguel Rosado Aiza, MSc Big Data and Text Analytics**  
+*Project: Network analysis algorithms to integrate big data from biological and clinical experiments.*
+
 ##### Postdoctoral and Doctoral students
 Positions will be posted on this page and on institutional websites as soon as
 as they become available.  
