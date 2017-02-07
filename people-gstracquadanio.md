@@ -6,6 +6,11 @@ permalink: /people/gstracquadanio
 
 ##### Academic positions
 
+* 11/2016 - current. **Lecturer in Computer Science and Artificial Intelligence**.  
+School of Computer Science and Electronic Engineering and
+Institute for Analytics and Data Science.
+**University of Essex**.
+
 * 07/2014 - 09/2016. **Postdoctoral Fellow**.  
 Ludwig Institute for Cancer Research, Nuffield Dept. of Clinical Medicine. **University of Oxford**.  
 Advisor: Prof Gareth Bond
