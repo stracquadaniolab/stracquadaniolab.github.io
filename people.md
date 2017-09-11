@@ -9,13 +9,40 @@ permalink: /people/
 </div>
 
 **Giovanni Stracquadanio, Ph.D.**  
-*School of Computer Science and Eletronic Engineering*  
-*Institute for Analytics and Data Science*  
-University of Esssex, Wivenhoe Park, Colchester CO4 3SQ, UK  
+*Lecturer and Head of the Computational Intelligence Lab for Biology and Medicine (CIBM)*  
+School of Computer Science and Electronic Engineering  
+University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK  
 email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk  
 [Curriculum vitae](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
 
-##### Students #####
+##### Doctoral Students #####
+
+**Viola Fanfani**  
+*School of Computer Science and Electronic Engineering*  
+University of Essex  
+Research area: cancer genomics  
+
+<div class="portrait">
+<img src="/images/agpic.png"/>
+</div>
+**Angelo Gaeta**  
+*School of Computer Science and Electronic Engineering*  
+University of Essex  
+Research area: synthetic biology informatics  
+
+<br/>
+
+<div class="portrait">
+<img src="/images/mzpic.png"/>
+</div>
+**Martina Zatopkova**  
+*Department of biology and ecology*  
+University of Ostrava  
+Research area: cancer genomics  
+
+<br>
+
+##### Alumni #####
 **William Miguel Rosado Aiza, MSc Big Data and Text Analytics**  
 *Project: Network analysis algorithms to integrate big data from biological and clinical experiments.*
 
