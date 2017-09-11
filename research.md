@@ -25,6 +25,7 @@ synthesis of any biological system.
 ###### **Collaborations**
 * [Joel S. Bader](http://www.baderzone.org), Johns Hopkins University, USA
 * [Jef D. Boeke](http://www.med.nyu.edu/biosketch/boekej01), NYU Institute for Systems Genetics, USA
+* [Boyd McKew](https://www1.essex.ac.uk/bs/staff/profile.aspx?ID=1211), University of Essex, UK
 
 ##### Biological network analysis
 High-throughput sequencing technologies allowed us to discover hundreds of mutations associated with different diseases. Despite these findings, major challenges remain in translating these associations into clinical applications. Most cellular functions are accomplished by complex interactions among proteins, it is necessary to evaluate these mutations in the broader context of the human interactome.
