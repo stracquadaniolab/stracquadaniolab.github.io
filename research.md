@@ -42,6 +42,8 @@ angiogenic factors as a response to different treatments.
 
 ###### **Collaborations**
 * [Francesco Pezzella](http://www.rdm.ox.ac.uk/principal-investigators/researcher/francesco-pezzella-2), University of Oxford, UK
+* [Adrian Harris](https://www.oncology.ox.ac.uk/research/adrian-harris), University of Oxford, UK
+
 
 ##### Applied optimization
 Designing efficient and robust systems often requires the solution of large scale optimization problems. Often, the objective function is expensive to evaluate, it is the output of a simulator or the derivatives are not available. Indeed, the objective function can be considered a "black-box", whose only known information being the input and the output.
