@@ -23,12 +23,8 @@ email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk
 **Viola Fanfani**  
 *School of Computer Science and Electronic Engineering*  
 University of Essex  
-Research area: cancer genomics  
-
-
+Research area: cancer genomics and big data  
 <br/>
-
-
 <div class="portrait">
 <img src="/images/agpic.png"/>
 </div>
@@ -36,9 +32,7 @@ Research area: cancer genomics
 *School of Computer Science and Electronic Engineering*  
 University of Essex  
 Research area: synthetic biology informatics  
-
 <br/>
-
 <div class="portrait">
 <img src="/images/mzpic.png"/>
 </div>
