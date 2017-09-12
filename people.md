@@ -24,6 +24,7 @@ email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk
 *School of Computer Science and Electronic Engineering*  
 University of Essex  
 Research area: cancer genomics  
+<br/>
 
 <div class="portrait">
 <img src="/images/agpic.png"/>
