@@ -17,6 +17,9 @@ email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk
 
 ##### Doctoral Students #####
 
+<div class="portrait">
+<img src="/images/vfpic.png"/>
+</div>
 **Viola Fanfani**  
 *School of Computer Science and Electronic Engineering*  
 University of Essex  
