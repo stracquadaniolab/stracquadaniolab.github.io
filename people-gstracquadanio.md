@@ -7,8 +7,9 @@ permalink: /people/gstracquadanio
 ##### Academic positions
 
 * 11/2016 - current. **Lecturer in Computer Science and Artificial Intelligence**.  
-*School of Computer Science and Electronic Engineering.  
-Institute for Analytics and Data Science*.  
+*Head of the Computational Intelligence Lab for Biology and Medicine (CIBM)  
+School of Computer Science and Electronic Engineering  
+*  
 **University of Essex**.
 
 * 07/2014 - 09/2016. **Postdoctoral Fellow**.  
@@ -27,6 +28,9 @@ Advisor: Prof. Giuseppe Nicosia.
 * 2004-2006. **M.Sc. in Computer Science**.  
 Department of Mathematics and Computers Science, University of Catania.  
 Advisor: Prof. Vincenzo Cutello and Prof. Giuseppe Nicosia.
+
+##### Funding
+* 2017 - 2019. **Wellcome Trust Seed Award in Science**. (£99,776; role: PI).
 
 ##### Awards
 *  2016 - **Keystone Future of Science Scholarship**. Keystone Genomics and Personalized Medicine Meeting, Banff, Canada.
@@ -105,6 +109,7 @@ Efficient optimization methods using symbolic models to design analog devices
 [MOMINE-08](http://www.dmi.unict.it/~momine08/).
 
 ##### Teaching Activity
+* 2016-now. **CE204 - ICT Systems Management and Integration**, University of Essex, UK.  
 * 2011-2013. **Build-A-Genome**.  
 Department of Biomedical Engineering and High-Throughput Biology Center, Johns Hopkins University. Baltimore, MD, USA.
 * 2009-2009. **Algorithms for Combinatorial Optimization**.  
