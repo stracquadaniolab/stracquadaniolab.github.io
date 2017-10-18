@@ -28,11 +28,13 @@ Research area: cancer genomics and big data
 <div class="portrait">
 <img src="/images/agpic.png"/>
 </div>
+
 **Angelo Gaeta**  
 *School of Computer Science and Electronic Engineering*  
 University of Essex  
 Research area: synthetic biology informatics  
 <br/>
+
 <div class="portrait">
 <img src="/images/mzpic.png"/>
 </div>
@@ -40,7 +42,6 @@ Research area: synthetic biology informatics
 *Department of biology and ecology*  
 University of Ostrava  
 Research area: cancer genomics  
-
 <br>
 
 ##### Alumni #####
