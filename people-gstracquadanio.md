@@ -8,8 +8,7 @@ permalink: /people/gstracquadanio
 
 * 11/2016 - current. **Lecturer in Computer Science and Artificial Intelligence**.  
 *Head of the Computational Intelligence Lab for Biology and Medicine (CIBM)  
-School of Computer Science and Electronic Engineering  
-*  
+School of Computer Science and Electronic Engineering*  
 **University of Essex**.
 
 * 07/2014 - 09/2016. **Postdoctoral Fellow**.  
