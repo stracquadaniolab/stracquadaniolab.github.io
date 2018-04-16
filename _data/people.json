@@ -1,0 +1,30 @@
+[
+  {
+      "name": "Viola Fanfani",
+      "area": "Cancer genomics",
+      "pic": "/images/vfpic.png",
+      "page": "/people/vfanfani",
+      "role": "phd"
+  },
+  {
+      "name": "Angelo Gaeta",
+      "area": "Computational Synthetic Biology",
+      "pic": "/images/agpic.png",
+      "page": "/people/agaeta",
+      "role": "phd"
+  },
+  {
+      "name": "Martina Zatopkova",
+      "area": "Cancer genomics",
+      "pic": "/images/mzpic.png",
+      "page": "/people/mzatopkova",
+      "role": "phd"
+  },
+  {
+      "name": "Kevin Smith",
+      "area": "Cancer genomics",
+      "pic": "/images/kspic.png",
+      "page": "/people/kjsmith",
+      "role": "postdoc"
+  },
+]
