@@ -13,36 +13,42 @@ permalink: /people/
 School of Computer Science and Electronic Engineering  
 University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK  
 email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk  
-[Curriculum vitae](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
+[Bio](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
 
-##### Doctoral Students #####
-
-<div class="portrait">
-<img src="/images/vfpic.png"/>
+##### Postdoctoral Fellows #####
+<div class="row">
+    {% for people in site.data.people limit:5 %}
+        <div class="three columns">
+        {% if people.role == 'postdoc' %}
+            <div class="member">
+                <img src="{{people.pic}}"/>
+                <div>
+                <a href="{{people.page}}">{{people.name}}</a>
+                </div>
+            </div>
+        {% endif %}
+        </div>
+    {% endfor %}
 </div>
-**Viola Fanfani**  
-*School of Computer Science and Electronic Engineering*  
-University of Essex  
-Research area: cancer genomics and big data  
-<br/>
-<div class="portrait">
-<img src="/images/agpic.png"/>
-</div>
-
-**Angelo Gaeta**  
-*School of Computer Science and Electronic Engineering*  
-University of Essex  
-Research area: synthetic biology informatics  
 <br/>
 
-<div class="portrait">
-<img src="/images/mzpic.png"/>
+##### PhD Students #####
+<div class="row">
+    {% for people in site.data.people limit:5 %}
+        <div class="three columns">
+            {% if people.role == 'phd' %}
+            <div class="member">
+                <img src="{{people.pic}}"/>
+                <div>
+                <a href="{{people.page}}">{{people.name}}</a>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    {% endfor %}
 </div>
-**Martina Zatopkova**  
-*Department of biology and ecology*  
-University of Ostrava  
-Research area: cancer genomics  
 <br>
+
 
 ##### Alumni #####
 **William Miguel Rosado Aiza, MSc Big Data and Text Analytics**  

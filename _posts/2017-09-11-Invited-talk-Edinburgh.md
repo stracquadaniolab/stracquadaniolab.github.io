@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "G. Stracquadanio to talk at the University of Edinburgh"
+title:  "Dr Stracquadanio to talk at the University of Edinburgh"
 date:   2017-09-11 00:00:00
 categories: news
 ---
