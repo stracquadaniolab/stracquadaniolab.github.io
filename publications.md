@@ -10,7 +10,7 @@ A selected list of publications is provided below. The complete list of publicat
 ##### Journal articles
 {% for paper in site.data.publications %}
   {% if paper.ENTRYTYPE == 'article' %}
-* [{{ paper.title }}](http://dx.doi.org/{{ paper.doi }}).  
+* <a href="http://dx.doi.org/{{ paper.doi }}" name="{{paper.ID}}">{{ paper.title }}</a>.  
 {{ paper.author | replace: '*', '<sup>1</sup>'| replace: '^', '<sup>3</sup>'| replace: 'Stracquadanio', '**Stracquadanio**' }}, *{{ paper.journal }}, {{ paper.year }}.*   
   {% endif %}
 {% endfor %}

@@ -15,7 +15,7 @@ University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK
 email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk  
 [Bio](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
 
-##### Postdoctoral Fellows #####
+<!-- ##### Postdoctoral Fellows #####
 <div class="row">
     {% for people in site.data.people limit:5 %}
         <div class="three columns">
@@ -30,7 +30,7 @@ email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk
         </div>
     {% endfor %}
 </div>
-<br/>
+<br/> -->
 
 ##### PhD Students #####
 <div class="row">
@@ -61,8 +61,7 @@ However, if you are eligible for a funding scheme or
 a fellowship and you want to join the lab, please send an email to
 Giovanni Stracquadanio attaching the following documents:  
 
-*  Cover letter, addressing how you fit into the lab and one or more area you would like to work among:
-      -  Synthetic biology informatics, graph/network clustering and analysis, big data analysis, applied optimization.
+*  Cover letter, addressing how you fit with the strategic research areas of the lab, such as: synthetic biology, next generation sequencing, GWAS, graph clustering and analysis, big data analysis, applied optimization.
 *  Curriculum vitae
 
 ##### Funding opportunities
