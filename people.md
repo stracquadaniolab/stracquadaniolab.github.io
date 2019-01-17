@@ -9,10 +9,13 @@ permalink: /people/
 </div>
 
 **Giovanni Stracquadanio, Ph.D.**  
-*Lecturer and Head of the Computational Intelligence Lab for Biology and Medicine (CIBM)*  
-School of Computer Science and Electronic Engineering  
-University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK  
-email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk  
+*Senior Lecturer in Synthetic Biology*  
+School of Biological Sciences
+Michael Swann Building, Room 2.35
+The King's Buildings  
+The University of Edinburgh,  
+Edinburgh, EH9 3BF
+email: giovanni (dot) stracquadanio (at) ed (dot) ac (dot) uk  
 [Bio](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
 
 <!-- ##### Postdoctoral Fellows #####
@@ -49,10 +52,6 @@ email: g (dot) stracquadanio (at) essex (dot) ac (dot) uk
 </div>
 <br>
 
-
-##### Alumni #####
-**William Miguel Rosado Aiza, MSc Big Data and Text Analytics**  
-*Project: Network analysis algorithms to integrate big data from biological and clinical experiments.*
 
 ##### Postdoctoral and Doctoral students
 Positions will be posted on this page and on institutional websites as soon as

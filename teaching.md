@@ -3,6 +3,7 @@ layout: default
 title: Teaching
 ---
 
-*  [CE219 - ICT Systems integration and management](https://www.essex.ac.uk/modules/Default.aspx?coursecode=CE219&year=17)  
-   Introduction to the analysis, design and integration of modern ICT systems, covering
-   state of the art approaches and hands-on activities.
+
+## Past modules taught
+*  2018; CE151 - Introduction to programming, University of Essex.
+*  2016-2018; CE219 - ICT Systems Management and Integration, University of Essex.
