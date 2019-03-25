@@ -1,2 +1,2 @@
 # stracquadaniolab.github.io
-Stracquadanio Lab Website at University of Essex
+Stracquadanio Lab Website at University of Edinburgh
