@@ -3,13 +3,13 @@ layout: default
 title: Angelo Gaeta
 permalink: /people/agaeta
 ---
-I am a Ph.D. student in synthetic biology at the University of Edinburgh. I am working in the Giovanni Stracquadanio lab, my research is focused on computer aided design (CAD) for synthetic biology.  
+I am a Ph.D. student in synthetic biology at the University of Edinburgh. My research work is focused on computer aided design (CAD) methods for synthetic biology.  
 
-I have a summa cum laude M.Sc. in Biology, I graduated from Naples University in 2014. During my thesis, I worked for one year at the Institute of Food Sciences, Italian National Research Council, in Angelo Facchiano's lab. My thesis focused on the creation of a database about nutraceutical food and compounds and on finding natural inhibitors for the protein AKT1.
+I obtained a M.Sc. in Biology summa cum laude in 2014 from the Università degli Studi di Napoli Federico II. During my thesis, I worked at the Institute of Food Sciences of Italian National Research Council, in Angelo Facchiano's lab. Here I developed a database about nutraceutical food and compounds and on finding natural inhibitors for the protein AKT1.
 
 ##### Education
-- 2015 - M.Sc. In Biology, University of Naples, Italy. Summa cum laude
-- 2013 – B.Sc. In Biology, University of Naples, Italty, Summa cum laude
+- 2015 - M.Sc. Biology, Università degli Studi di Napoli Federico II, Italy. 
+- 2013 – B.Sc. Biology, Università degli Studi di Napoli Federico II, Italy.
 
 ##### Awards
-- Studentship of the "Azienda per Il Diritto allo Studio Universitario", Italia.
+- Studentship awarded by "Azienda per Il Diritto allo Studio Universitario", Italy.

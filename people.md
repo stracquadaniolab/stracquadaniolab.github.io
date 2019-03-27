@@ -54,10 +54,8 @@ email: giovanni (dot) stracquadanio (at) ed (dot) ac (dot) uk
 
 
 ##### Postdoctoral and Doctoral students
-Positions will be posted on this page and on institutional websites as soon as
-as they become available.  
-However, if you are eligible for a funding scheme or
-a fellowship and you want to join the lab, please send an email to
+Positions will be posted on this page and on institutional websites as soon as they become available.  
+However, if you are eligible for a funding scheme or a fellowship and you want to join the lab, please send an email to
 Giovanni Stracquadanio attaching the following documents:  
 
 *  Cover letter, addressing how you fit with the strategic research areas of the lab, such as: synthetic biology, next generation sequencing, GWAS, graph clustering and analysis, big data analysis, applied optimization.
