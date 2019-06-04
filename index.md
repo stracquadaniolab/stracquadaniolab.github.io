@@ -2,9 +2,4 @@
 layout: home
 title: Welcome
 ---
-We are a research group at the [School of Biological Sciences](https://www.ed.ac.uk/biology)
-at the [University of Edinburgh](https://www.ed.ac.uk/).  
-We are interested in computational methods to build and analyse genomes to understand the molecular mechanisms underpinning complex phenotypes and diseases.
-We particularly focus on _Computer Aided Engineering_ (CAE) methods for synthetic genomics and inference methods for cancer genomics and genetics.
-
-<!-- analyse biological big data and design synthetic genomes to understand the underpinning mechanisms of complex phenotypes and disease. Our work ranges from Bayesian learning and deep learning for cancer genetics to CAD methods for genome engineering, to network inference and clustering. -->
+We are a research group based at the [School of Biological Sciences](https://www.ed.ac.uk/biology) at the [University of Edinburgh](https://www.ed.ac.uk/) interested in understanding the molecular mechanisms underpinning complex phenotypes and diseases, using a data-driven synthetic biology approach. We focus on developing machine learning methods to dissect the genetic architecture of cancer, as well as computer aided design methods for synthetic genomics. Our group is extremely interdisciplinary and includes members with engineering, biology and informatics background. 

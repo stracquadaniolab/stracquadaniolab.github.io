@@ -1,30 +1,56 @@
 [
-  {
-      "name": "Viola Fanfani",
-      "area": "Cancer genomics",
-      "pic": "/images/vfpic.png",
-      "page": "/people/vfanfani",
-      "role": "phd"
-  },
-  {
-      "name": "Angelo Gaeta",
-      "area": "Computational Synthetic Biology",
-      "pic": "/images/agpic.png",
-      "page": "/people/agaeta",
-      "role": "phd"
-  },
-  {
-      "name": "Martina Zatopkova",
-      "area": "Cancer genomics",
-      "pic": "/images/mzpic.png",
-      "page": "/people/mzatopkova",
-      "role": "phd"
-  },
-  {
-      "name": "Kevin Smith",
-      "area": "Cancer genomics",
-      "pic": "/images/kjspic.jpg",
-      "page": "/people/kjsmith",
-      "role": "postdoc"
-  },
+    {
+        "name": "Viola Fanfani",
+        "area": "Cancer genomics, network biology",
+        "pic": "/images/vfpic.png",
+        "page": "/people/vfanfani",
+        "role": "phd",
+        ""
+    },
+    {
+        "name": "Angelo Gaeta",
+        "area": "Synthetic Biology",
+        "pic": "/images/agpic.png",
+        "page": "/people/agaeta",
+        "role": "phd",
+        ""
+    },
+    {
+        "name": "Martina Zatopkova",
+        "area": "Cancer genomics, multiple myeloma",
+        "pic": "/images/mzpic.png",
+        "page": "/people/mzatopkova",
+        "role": "phd",
+        ""
+    },
+    {
+        "name": "Daniel Biro",
+        "area": "Deep-learning for Nanopore variant calling",
+        "pic": "/images/member-grey.png",
+        "page": "",
+        "role": "ug",
+        ""
+    },
+    {
+        "name": "Mariya Lazarova        ",
+        "area": "Evaluation of variant calling workflows",
+        "pic": "/images/member-red.png",
+        "page": "",
+        "role": "ug",
+        ""
+    },
+    {
+        "name": "Jason English",
+        "area": "Space trajectory optimization",
+        "pic": "",
+        "page": "",
+        "role": "alumni",
+        ""
+    },
+    {
+        "name": "William Aiza-Rosado",
+        "area": "Network biology",
+        "role": "alumni",
+        ""
+    },
 ]

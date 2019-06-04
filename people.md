@@ -4,62 +4,77 @@ title: People
 permalink: /people/
 ---
 
-<div class="portrait">
-<img src="/images/gspic.jpg"/>
+## Principal Investigator
+<div class="row">
+    <div class="two columns">
+        <img class="portrait" src="/images/gspic.jpg"/>
+    </div>
+    <div class="ten columns">
+        <h3>Giovanni Stracquadanio, PhD FHEA</h3>
+        <p>
+            <b>Senior Lecturer in Synthetic Biology</b><br/>
+            <b>Co-Director of the Edinburgh Genome Foundry</b><br/>
+            School of Biological Sciences, Michael Swann Building, Room 2.35, The King's Buildings<br/>
+            The University of Edinburgh, Edinburgh, EH9 3BF<br/>
+            email: giovanni (dot) stracquadanio (at) ed (dot) ac (dot) uk  
+        </p>
+    </div>
 </div>
 
-**Giovanni Stracquadanio, Ph.D.**  
-*Senior Lecturer in Synthetic Biology*  
-School of Biological Sciences
-Michael Swann Building, Room 2.35
-The King's Buildings  
-The University of Edinburgh,  
-Edinburgh, EH9 3BF
-email: giovanni (dot) stracquadanio (at) ed (dot) ac (dot) uk  
-[Bio](/people/gstracquadanio) | [Google Scholar](https://goo.gl/faI6XG) | [ORCID](http://orcid.org/0000-0001-9819-3645)
+## Lab members
 
-<!-- ##### Postdoctoral Fellows #####
 <div class="row">
-    {% for people in site.data.people limit:5 %}
-        <div class="three columns">
-        {% if people.role == 'postdoc' %}
-            <div class="member">
-                <img src="{{people.pic}}"/>
-                <div>
-                <a href="{{people.page}}">{{people.name}}</a>
-                </div>
+    {% for people in site.data.people %}
+        {% if people.role == 'phd' %}
+        <div class="row member">
+            <div class="two columns">
+                <img class="portrait" src="{{people.pic}}"/>
             </div>
+            <div class="ten columns">
+                <h3>{{people.name}}</h3>
+                <p>
+                <i>PhD student</i><br/>
+                Research area: {{people.area}}
+                </p>
+            </div>
+        </div>
         {% endif %}
-        </div>
     {% endfor %}
-</div>
-<br/> -->
-
-##### PhD Students #####
-<div class="row">
-    {% for people in site.data.people limit:5 %}
-        <div class="three columns">
-            {% if people.role == 'phd' %}
-            <div class="member">
-                <img src="{{people.pic}}"/>
-                <div>
-                <a href="{{people.page}}">{{people.name}}</a>
-                </div>
+    {% for people in site.data.people %}
+        {% if people.role == 'ug' %}
+        <div class="row member">
+            <div class="two columns">
+                <img class="portrait" src="{{people.pic}}"/>
             </div>
-            {% endif %}
+            <div class="ten columns">
+                <h3>{{people.name}}</h3>
+                <p>
+                <i>Hons. Student</i><br/>
+                Research area: {{people.area}}
+                </p>
+            </div>
         </div>
+        {% endif %}
     {% endfor %}
 </div>
 <br>
 
+## Alumni
+<div>
+    <ul>
+    {% for people in site.data.people %}
+        {% if people.role == 'alumni' %}
+            <li>{{people.name}}; {{people.area}}</li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</div>
 
-##### Postdoctoral and Doctoral students
-Positions will be posted on this page and on institutional websites as soon as they become available.  
-However, if you are eligible for a funding scheme or a fellowship and you want to join the lab, please send an email to
-Giovanni Stracquadanio attaching the following documents:  
+## Postdoctoral and Doctoral students
+Positions will be posted on this page and on institutional websites as soon as they become available. However, if you are eligible for a funding scheme or a fellowship and you want to join the lab, please send an email to Giovanni Stracquadanio attaching the following documents:  
 
-*  Cover letter, addressing how you fit with the strategic research areas of the lab, such as: synthetic biology, next generation sequencing, GWAS, graph clustering and analysis, big data analysis, applied optimization.
-*  Curriculum vitae
+*  Cover letter, addressing how you fit with the strategic research areas of the lab, such as: synthetic biology, next generation sequencing, GWAS, network biology;
+*  Curriculum vitae.
 
 ##### Funding opportunities
 * [EMBO Fellowships](http://www.embo.org/funding-awards/fellowships)
