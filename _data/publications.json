@@ -1,4 +1,40 @@
-[
+[    
+    {
+        "curriculum": "true",
+        "highlight": "true",
+        "note": "cited By 1",
+        "doi": "10.1101/761320",
+        "title": "Design and assembly of DNA molecules using multi-objective optimisation",
+        "journal": "biorXiv",
+        "author": "Gaeta, A., Zulkower, V. and Stracquadanio, G.",
+        "number": "",
+        "ENTRYTYPE": "article",
+        "volume": "",
+        "source": "Scopus",
+        "link": "",
+        "year": "2019",
+        "ID": "stracquadanio2019-3",
+        "document_type": "Article",
+        "pages": ""
+    },
+    {
+        "curriculum": "true",
+        "highlight": "true",
+        "note": "cited By 1",
+        "doi": "10.1101/699926",
+        "title": "A unified framework for geneset network analysis",
+        "journal": "biorXiv",
+        "author": "Fanfani, V. and Stracquadanio, G.",
+        "number": "",
+        "ENTRYTYPE": "article",
+        "volume": "",
+        "source": "Scopus",
+        "link": "",
+        "year": "2019",
+        "ID": "stracquadanio2019-2",
+        "document_type": "Article",
+        "pages": ""
+    },
     {
         "curriculum": "true",
         "highlight": "true",
