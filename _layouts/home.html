@@ -4,41 +4,38 @@
 {% include _head.html %}
 
 <body>
-  <div class="container content">
-    {% include _header.html %}
-    <p>
-      <img src="/images/gstracquadanio-artwork.jpg" width='100%' />
-      {{ content }}
-    </p>
-
-    <div class="row topbar">
-      <div class="six columns">
-          <h5>Recent selected publications</h5>
-          <ul>
-            {% for paper in site.data.publications limit:5 %}
-            {% if paper.highlight == 'true' %}
-            <li>
-              <a href="http://dx.doi.org/{{paper.doi}}">{{ paper.title}}</a>. <em>{{paper.journal}}</em>,
-              {{paper.year}}.
-            </li>
-            {% endif %}
-            {% endfor %}
-          </ul>
-      </div>
-
-      <div class="six columns">
-        <h5>News</h5>
-        <ul>
-          {% for post in site.posts limit: 5 %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    {% include _footer.html %}
-
+  <!-- including header and navbar -->
+  {% include _header.html %}
+  <div class="container p-4">
+    <img src="/images/gstracquadanio-artwork.jpg" width='100%' />
+    <p>{{ content }}</p>
   </div>
+
+  <div class="container">
+    <h3>Recent selected publications</h3>
+    <ul>
+      {% for paper in site.data.publications limit:5 %}
+      {% if paper.highlight == 'true' %}
+      <li>
+        <a href="http://dx.doi.org/{{paper.doi}}">{{ paper.title}}</a>. <em>{{paper.journal}}</em>,
+        {{paper.year}}.
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="container">
+    <h3>News</h3>
+    <ul>
+      {% for post in site.posts limit: 5 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% include _footer.html %}
+
 </body>
 
 </html>

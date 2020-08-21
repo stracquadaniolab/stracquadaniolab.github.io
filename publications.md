@@ -5,7 +5,7 @@ layout: default
 A selected list of publications is provided below. The complete list of publications is available on [Google Scholar](https://goo.gl/faI6XG).  
 <small><sup>1</sup> : co-first, equally contributing author. <sup>2</sup> : co-corresponding author. <sup>3</sup> : author listed in alphabetical order</small>.
 
-##### Journal articles
+## Peer-reviewed articles
 <ul>
 {% for paper in site.data.publications %}
   {% if paper.ENTRYTYPE == 'article' %}
@@ -15,7 +15,7 @@ A selected list of publications is provided below. The complete list of publicat
 {% endfor %}
 </ul>
 
-##### Books and contributed chapters
+## Books and contributed chapters
 <ul>
 {% for paper in site.data.publications %}
   {% if paper.ENTRYTYPE == 'book' %}
