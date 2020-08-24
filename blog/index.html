@@ -1,0 +1,47 @@
+---
+layout: default
+title: Blog
+---
+
+
+
+{% for post in paginator.posts %}
+<div class="container">
+    <h4 class="p-1 border-bottom">{{ post.title }}</h4>
+    <p>
+        {% for tag in post.categories %}
+            <span class="badge badge-info">{{tag}}</span>
+        {% endfor %}
+        <small>&raquo; {{ post.date | date_to_long_string }}</small>
+    </p>
+        {{ post.excerpt }}
+    <p class="justify-content-end">
+        <a class="text-secondary" href="{{ post.url }}">Read more</a>
+    </p>
+</div>
+{% endfor %}
+
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-end">
+        {% if paginator.previous_page %}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.previous_page_path }}" tabindex="-1" aria-disabled="false">Newer</a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Newer</a>
+        </li>
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <li class="page-item">
+            <a class="page-link" href="{{ paginator.next_page_path }}" tabindex="-1" aria-disabled="false">Older</a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Older</a>
+        </li>
+        {% endif %}
+    </ul>
+</nav>

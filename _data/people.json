@@ -1,10 +1,26 @@
 [
     {
+        "name": "Fabio Cassano",
+        "area": "Cancer network biology",
+        "pic": "/images/member-grey.png",
+        "page": "/people/fcassano",
+        "role": "Postdoc",
+        ""
+    },
+    {
+        "name": "David Zihala",
+        "area": "Cancer genomics",
+        "pic": "/images/member-grey.png",
+        "page": "/people/dzihala",
+        "role": "Visiting research fellow",
+        ""
+    },
+    {
         "name": "Viola Fanfani",
         "area": "Cancer genomics, network biology",
         "pic": "/images/vfpic.png",
         "page": "/people/vfanfani",
-        "role": "phd",
+        "role": "PhD student",
         ""
     },
     {
@@ -12,7 +28,7 @@
         "area": "Synthetic Biology",
         "pic": "/images/agpic.png",
         "page": "/people/agaeta",
-        "role": "phd",
+        "role": "PhD student",
         ""
     },
     {
@@ -20,15 +36,15 @@
         "area": "Cancer genomics, multiple myeloma",
         "pic": "/images/mzpic.png",
         "page": "/people/mzatopkova",
-        "role": "phd",
+        "role": "PhD student",
         ""
     },
     {
         "name": "Daniel Biro",
-        "area": "Deep-learning for Nanopore variant calling",
+        "area": "Deep-learning for variant calling",
         "pic": "/images/member-grey.png",
         "page": "",
-        "role": "ug",
+        "role": "MSc student",
         ""
     },
     {
@@ -36,7 +52,7 @@
         "area": "Evaluation of variant calling workflows",
         "pic": "/images/member-red.png",
         "page": "",
-        "role": "ug",
+        "role": "alumni",
         ""
     },
     {
@@ -50,6 +66,12 @@
     {
         "name": "William Aiza-Rosado",
         "area": "Network biology",
+        "role": "alumni",
+        ""
+    },
+    {
+        "name": "Daniele Cotton",
+        "area": "Breast cancer heritability",
         "role": "alumni",
         ""
     },
