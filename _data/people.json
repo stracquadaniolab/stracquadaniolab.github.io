@@ -5,7 +5,7 @@
         "pic": "/images/member-grey.png",
         "page": "/people/fcassano",
         "role": "Postdoc",
-        ""
+        "affiliation": "University of Edinburgh"
     },
     {
         "name": "David Zihala",
@@ -13,7 +13,7 @@
         "pic": "/images/member-grey.png",
         "page": "/people/dzihala",
         "role": "Visiting research fellow",
-        ""
+        "affiliation": "University of Ostrava"
     },
     {
         "name": "Viola Fanfani",
@@ -21,7 +21,7 @@
         "pic": "/images/vfpic.png",
         "page": "/people/vfanfani",
         "role": "PhD student",
-        ""
+        "affiliation": "University of Edinburgh"
     },
     {
         "name": "Angelo Gaeta",
@@ -29,7 +29,15 @@
         "pic": "/images/agpic.png",
         "page": "/people/agaeta",
         "role": "PhD student",
-        ""
+        "affiliation": "University of Edinburgh"
+    },
+    {
+        "name": "Evgenii Lobzaev",
+        "area": "Deep generative models, enzyme engineering",
+        "pic": "/images/member-grey.png",
+        "page": "/people/vfanfani",
+        "role": "PhD student",
+        "affiliation": "University of Edinburgh"
     },
     {
         "name": "Martina Zatopkova",
@@ -37,7 +45,7 @@
         "pic": "/images/mzpic.png",
         "page": "/people/mzatopkova",
         "role": "PhD student",
-        ""
+        "affiliation": "University of Ostrava"
     },
     {
         "name": "Daniel Biro",
@@ -45,34 +53,25 @@
         "pic": "/images/member-grey.png",
         "page": "",
         "role": "MSc student",
-        ""
+        "affiliation": "University of Edinburgh"
     },
     {
-        "name": "Mariya Lazarova        ",
-        "area": "Evaluation of variant calling workflows",
-        "pic": "/images/member-red.png",
-        "page": "",
+        "name": "Hugo Madge-Leon",
+        "area": "eQTL analysis of Cancer SNPs",
         "role": "alumni",
-        ""
-    },
-    {
-        "name": "Jason English",
-        "area": "Space trajectory optimization",
-        "pic": "",
-        "page": "",
-        "role": "alumni",
-        ""
-    },
-    {
-        "name": "William Aiza-Rosado",
-        "area": "Network biology",
-        "role": "alumni",
-        ""
+        "affiliation": "University of Edinburgh"
     },
     {
         "name": "Daniele Cotton",
         "area": "Breast cancer heritability",
         "role": "alumni",
-        ""
+        "affiliation": "Imperial College London"
+    },
+    {
+        "name": "Mariya Lazarova        ",
+        "area": "Evaluation of variant calling workflows",
+        "pic": "/images/member-red.png",
+        "role": "alumni",
+        "affiliation": "University of Edinburgh"
     },
 ]

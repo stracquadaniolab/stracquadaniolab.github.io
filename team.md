@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-permalink: /people/
+title: Team
+permalink: /team/
 ---
 
 <div class="row p-4 mb-4">
@@ -25,10 +25,10 @@ permalink: /people/
 <div class="row p-4 mb-4">
 {% for people in site.data.people %}
 {% if people.role != 'alumni' %}
-    <div class="col-1">
+    <div class="col-1 mb-4">
         <img class="rounded-circle rounded-sm" src="{{people.pic}}" width="100%" />
     </div>
-    <div class="col-5">
+    <div class="col-5 mb-4">
         <b>{{people.name}}</b><br/>
         Position: <i>{{people.role}}</i><br/>
         Research area: <i>{{people.area}}</i>
@@ -42,7 +42,7 @@ permalink: /people/
     <ul>
     {% for people in site.data.people %}
         {% if people.role == 'alumni' %}
-            <li>{{people.name}}; {{people.area}}</li>
+            <li>{{people.name}}, {{people.affiliation}}; {{people.area}}.</li>
         {% endif %}
     {% endfor %}
     </ul>
