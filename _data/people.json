@@ -33,11 +33,11 @@
     },
     {
         "name": "Evgenii Lobzaev",
-        "area": "Deep generative models, enzyme engineering",
-        "pic": "/images/member-grey.png",
-        "page": "/people/vfanfani",
+        "area": "Deep generative models for enzyme engineering",
+        "pic": "/images/elpic.jpg",
+        "page": "/people/elobzaev",
         "role": "PhD student",
-        "affiliation": "University of Edinburgh"
+        "affiliation": "Biomedical AI CDT, University of Edinburgh"
     },
     {
         "name": "Martina Zatopkova",
@@ -58,7 +58,8 @@
     {
         "name": "Hugo Madge-Leon",
         "area": "eQTL analysis of Cancer SNPs",
-        "role": "alumni",
+        "role": "MSc student",
+        "pic": "/images/member-grey.png",
         "affiliation": "University of Edinburgh"
     },
     {
