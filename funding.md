@@ -8,4 +8,5 @@ permalink: /funding/
 <img src="/images/uoe-logo.png" width="25%"/> 
 
 * NVIDIA
+* CDT in Biomedical AI
 * Genetics Society UK

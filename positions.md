@@ -17,20 +17,20 @@ using Unix systems is required prior to start.
 
 ### How to join
 
-* **Postdocs**: Email Dr Stracquadanio your CV, 1 recent research article and a
-  1-page statement with your research experience, your areas of interest and how
-  you fit and can contribute to the team. Please, arrange 2 reference letters to
-  be sent directly to Dr Stracquadanio. 
+* **Postdocs**: Email Dr Stracquadanio your CV, 1 recent research article,
+  1-page statement with your i) research experience, ii) your current research
+  interests and iii) how you fit and can contribute to the team. Please, arrange
+  2 reference letters to be sent directly to Dr Stracquadanio.
 
-* **PhD students**: Email Dr Stracquadanio your CV and 1-page statement with
-  your research interests and describing how your formal training would allow
-  you to succeed as a graduate student, and how you would fit with the lab.
-  Please, arrange 1 reference letter to be sent directly to Dr Stracquadanio. 
+* **PhD students**: Email Dr Stracquadanio your CV, 1-page statement describing
+  i) your research interests, ii) how your formal training would allow you to
+  succeed as a graduate student, and iii) how you would fit with the lab.
+  Please, arrange 1 reference letter to be sent directly to Dr Stracquadanio.
 
-*  **Undergraduate students**: We welcome undergraduate students to join the
-   team to get research experience. However, to be productive, students should
-   have already taken relevant programming, mathematics or bioinformatics
-   modules. 
+*  **Undergraduate students**: We welcome undergraduate and post-graduate
+   students to join the team to get research experience. However, to be
+   productive, students should have already taken relevant programming,
+   mathematics or bioinformatics modules.
 
 
 ### Funding opportunities

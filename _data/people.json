@@ -2,7 +2,7 @@
     {
         "name": "Fabio Cassano",
         "area": "Cancer network biology",
-        "pic": "/images/member-grey.png",
+        "pic": "/images/fcpic.png",
         "page": "/people/fcassano",
         "role": "Postdoc",
         "affiliation": "University of Edinburgh"
@@ -10,7 +10,7 @@
     {
         "name": "David Zihala",
         "area": "Cancer genomics",
-        "pic": "/images/member-grey.png",
+        "pic": "/images/dzpic.png",
         "page": "/people/dzihala",
         "role": "Visiting research fellow",
         "affiliation": "University of Ostrava"
@@ -48,18 +48,18 @@
         "affiliation": "University of Ostrava"
     },
     {
+        "name": "Hugo Madge-Leon",
+        "area": "eQTL analysis of Cancer SNPs",
+        "role": "MSc student",
+        "pic": "/images/hmpic.png",
+        "affiliation": "University of Edinburgh"
+    },    
+    {
         "name": "Daniel Biro",
         "area": "Deep-learning for variant calling",
         "pic": "/images/member-grey.png",
         "page": "",
         "role": "MSc student",
-        "affiliation": "University of Edinburgh"
-    },
-    {
-        "name": "Hugo Madge-Leon",
-        "area": "eQTL analysis of Cancer SNPs",
-        "role": "MSc student",
-        "pic": "/images/member-grey.png",
         "affiliation": "University of Edinburgh"
     },
     {
