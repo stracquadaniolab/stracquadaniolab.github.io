@@ -14,8 +14,6 @@ Our long term goal is to reverse-engineer biological systems to create
 generative algorithms to design, build and test biological agents for addressing
 healthcare and industrial biotechnology problems.
 
-
-
 <div class="row">
     <div class="col-12">
         <h2>Synthetic genomics</h2>
@@ -116,3 +114,13 @@ healthcare and industrial biotechnology problems.
         <img src="images/code.png" width="100%"/>
     </div>
 </div>
+
+<br/>
+<h2>Funding</h2>
+
+<img src="/images/uoe-logo.png" width="25%"/> 
+<img src="/images/cdtai.png" width="25%"/> 
+<img src="/images/wellcome-logo-black.png" width="7%"/> 
+
+* NVIDIA
+* Genetics Society UK
