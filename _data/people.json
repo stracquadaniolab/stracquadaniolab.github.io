@@ -2,7 +2,7 @@
     {
         "name": "Fabio Cassano",
         "area": "Cancer network biology",
-        "pic": "/images/fcpic.png",
+        "pic": "/images/team-fc.png",
         "page": "/people/fcassano",
         "role": "Postdoc",
         "affiliation": "University of Edinburgh"
@@ -10,7 +10,7 @@
     {
         "name": "David Zihala",
         "area": "Cancer genomics",
-        "pic": "/images/dzpic.png",
+        "pic": "/images/team-dz.png",
         "page": "/people/dzihala",
         "role": "Visiting research fellow",
         "affiliation": "University of Ostrava"
@@ -18,7 +18,7 @@
     {
         "name": "Viola Fanfani",
         "area": "Cancer genomics, network biology",
-        "pic": "/images/vfpic.png",
+        "pic": "/images/team-vf.png",
         "page": "/people/vfanfani",
         "role": "PhD student",
         "affiliation": "University of Edinburgh"
@@ -26,7 +26,7 @@
     {
         "name": "Angelo Gaeta",
         "area": "Synthetic Biology",
-        "pic": "/images/agpic.png",
+        "pic": "/images/team-ag.png",
         "page": "/people/agaeta",
         "role": "PhD student",
         "affiliation": "University of Edinburgh"
@@ -34,7 +34,7 @@
     {
         "name": "Evgenii Lobzaev",
         "area": "Deep generative models for enzyme engineering",
-        "pic": "/images/elpic.jpg",
+        "pic": "/images/team-el.jpg",
         "page": "/people/elobzaev",
         "role": "PhD student",
         "affiliation": "Biomedical AI CDT, University of Edinburgh"
@@ -42,7 +42,7 @@
     {
         "name": "Martina Zatopkova",
         "area": "Cancer genomics, multiple myeloma",
-        "pic": "/images/mzpic.png",
+        "pic": "/images/team-mz.png",
         "page": "/people/mzatopkova",
         "role": "PhD student",
         "affiliation": "University of Ostrava"
@@ -51,13 +51,13 @@
         "name": "Hugo Madge-Leon",
         "area": "eQTL analysis of Cancer SNPs",
         "role": "MSc student",
-        "pic": "/images/hmpic.png",
+        "pic": "/images/team-hm.png",
         "affiliation": "University of Edinburgh"
     },    
     {
         "name": "Daniel Biro",
         "area": "Deep-learning for variant calling",
-        "pic": "/images/member-grey.png",
+        "pic": "/images/team-grey.png",
         "page": "",
         "role": "MSc student",
         "affiliation": "University of Edinburgh"

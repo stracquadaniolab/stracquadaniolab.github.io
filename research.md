@@ -11,7 +11,7 @@ these design rules to engineer new designer systems ranging from genes to
 chromosomes.
 
 Our long term goal is to reverse-engineer biological systems to create
-generative algorithms to design, build and test biological agents for addressing
+generative algorithms to design, build and test biochemical agents for addressing
 healthcare and industrial biotechnology problems.
 
 <div class="row">
@@ -19,7 +19,7 @@ healthcare and industrial biotechnology problems.
         <h2>Synthetic genomics</h2>
     </div>
     <div class="col">
-        <img src="/images/sc2-cover.jpg" width="90%" height="90%" class="rounded-circle">
+        <img src="/images/research-syngenomics.png" width="90%" height="90%">
     </div>
     <div class="col-9 mb-4">
         Recent advances in DNA synthesis, high-throughput sequencing and computer aided
@@ -65,7 +65,7 @@ healthcare and industrial biotechnology problems.
         provide new sustainable treatment for patients with rare metabolic disorders.
     </div>
     <div class="col">
-        <img src="/images/cell.jpg" width="90%">
+        <img src="/images/research-enzyme.png" width="90%">
     </div>
 
     <!-- cancer genetics and genomics -->
@@ -73,11 +73,11 @@ healthcare and industrial biotechnology problems.
         <h2>Cancer genetics and genomics</h2>
     </div>
     <div class="col">
-        <img src="images/hallmarks.png" width="100%"/>
+        <img src="images/research-cancergenetics.png" width="100%"/>
     </div>
     <div class="col-9 mb-4">
         Decades of research have shown that genomic mutations in key genic regions 
-        are responsible for the transformation of normal into cancer cells.
+        are responsible for the transformation of normal cells into cancer cells.
         However, while a causal role for somatic mutations has been shown for many 
         common malignancies, the role of high frequency inherited mutations has 
         remained elusive. 
@@ -100,27 +100,28 @@ healthcare and industrial biotechnology problems.
         <h2>Computational biology algorithms and software engineering</h2>
     </div>
     <div class="col-9">
-    Computational methods are now cornerstone of many biological experiments. The
+    Computational methods are now cornerstone of modern biology. The
     lab is committed to release high-quality, open-source tools that can be
-    easily integrated into analysis workflows. To do that, we adopt software
+    easily integrated into analysis workflows. <br/>
+    To do that, we adopt software
     engineering principles and methods that are standard in industry. Currently,
-    our ecosystem relies on Python, Git, GitHub and GPU computing libraries. 
+    our ecosystem relies on Python, Git, GitHub and GPU computing. <br/>
     All our analyses are implemented using either Nextflow or Snakemake
     workflow management systems. We also maintain a collection of Docker containers 
     to facilitate the adoption of our tools. You can check our growing suite of software on
     GitHub.
     </div>
     <div class="col">
-        <img src="images/code.png" width="100%"/>
+        <img src="images/research-sweng.png" width="100%"/>
     </div>
 </div>
 
 <br/>
 <h2>Funding</h2>
 
-<img src="/images/uoe-logo.png" width="25%"/> 
-<img src="/images/cdtai.png" width="25%"/> 
-<img src="/images/wellcome-logo-black.png" width="7%"/> 
+<img src="/images/logo-uoe.png" width="25%"/> 
+<img src="/images/logo-cdtai.png" width="25%"/> 
+<img src="/images/logo-wellcome.png" width="7%"/> 
 
 * NVIDIA
 * Genetics Society UK

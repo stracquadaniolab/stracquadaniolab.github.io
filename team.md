@@ -6,7 +6,7 @@ permalink: /team/
 
 <div class="row p-4 mb-4">
     <div class="col-2">
-        <img class="rounded-circle" src="/images/gspic.jpg" width="75%"/>
+        <img class="rounded-circle" src="/images/team-gs.jpg" width="75%"/>
     </div>
     <div class="col-10">
         <h5>Giovanni Stracquadanio, PhD FHEA</h5>

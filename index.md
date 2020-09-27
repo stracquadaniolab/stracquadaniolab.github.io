@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to the Stracquadanio Lab
 ---
 We are a multi-disciplinary research group based at the [School of Biological
 Sciences](https://www.ed.ac.uk/biology) at the [University of
