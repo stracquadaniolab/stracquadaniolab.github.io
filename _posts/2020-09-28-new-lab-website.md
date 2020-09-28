@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launching the new lab website"
-date:   2020-09-27 00:00:00
+date:   2020-09-28 00:00:00
 author: Giovanni Stracquadanio
 tags: news
 ---

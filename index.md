@@ -10,4 +10,4 @@ disruptive technologies available: synthetic biology and machine learning. Our
 long term goal is to reverse-engineer biological systems to create generative
 algorithms to design, build and test biological agents for addressing healthcare
 and industrial biotechnology problems. Our group is extremely interdisciplinary
-and includes members with engineering, biology and informatics background. 
+and includes members with engineering, biology and informatics background.
