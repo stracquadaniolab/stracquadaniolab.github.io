@@ -1,5 +1,22 @@
 [   
-
+    {
+        "curriculum": "true",
+        "highlight": "true",
+        "note": "cited By 1",
+        "doi": "10.1186/s12859-020-03801-1",
+        "title": "PyGNA: a unified framework for geneset network analysis",
+        "journal": "BMC Bioinformatics",
+        "author": "Fanfani, V., Cassano, F. & Stracquadanio",
+        "number": "",
+        "ENTRYTYPE": "article",
+        "volume": "21",
+        "source": "Scopus",
+        "link": "",
+        "year": "2020",
+        "ID": "stracquadanio2020-4",
+        "document_type": "Article",
+        "pages": "476"
+    },
     {
         "curriculum": "true",
         "highlight": "true",
