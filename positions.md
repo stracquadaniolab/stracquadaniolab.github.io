@@ -15,6 +15,15 @@ statistics, algorithms and computational biology, in particular sequencing
 analysis and synthetic DNA design. Proven programming experience and fluency in
 using Unix systems is required prior to start. 
 
+### Available PhD Positions
+
+Deadline: 06/01/2021
+
+- EASTBIO Machine learning driven codon optimisation for heterologous protein expression: [Info](https://bit.ly/38zryr4)
+- A biofoundry scale platform for DNA constructs verification and design for manufacturability
+[Info](https://bit.ly/3eW5xnu)
+- Accurate methods for rare variant calling in low-coverage cancer exome sequencing data. [Info](https://bit.ly/3khu4V7)
+
 ### How to join
 
 * **Postdocs**: Email Dr Stracquadanio your CV, 1 recent research article,
