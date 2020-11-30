@@ -19,10 +19,10 @@ using Unix systems is required prior to start.
 
 Deadline: 06/01/2021
 
-- EASTBIO Machine learning driven codon optimisation for heterologous protein expression: [Info](https://bit.ly/38zryr4)
-- A biofoundry scale platform for DNA constructs verification and design for manufacturability
+- **EASTBIO Machine learning driven codon optimisation for heterologous protein expression**. [Info](https://bit.ly/38zryr4)
+- **A biofoundry scale platform for DNA constructs verification and design for manufacturability**.
 [Info](https://bit.ly/3eW5xnu)
-- Accurate methods for rare variant calling in low-coverage cancer exome sequencing data. [Info](https://bit.ly/3khu4V7)
+- **Accurate methods for rare variant calling in low-coverage cancer exome sequencing data**. [Info](https://bit.ly/3khu4V7)
 
 ### How to join
 
