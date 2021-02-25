@@ -15,7 +15,7 @@ Michael Swann Building, Room 2.35, The King's Buildings, Edinburgh, EH9 3BF
 <address>
 <strong>Email:</strong> giovanni (dot) stracquadanio (at) ed (dot) ac (dot) uk
 <br/>
-<strong>Twitter:</strong> &#64;drgios
+<strong>Twitter:</strong> &#64;DrStracquadanio
 <br/>
 </address>
 
