@@ -15,39 +15,14 @@ statistics, algorithms and computational biology, in particular sequencing
 analysis and synthetic DNA design. Proven programming experience and fluency in
 using Unix systems is required prior to start. 
 
-### Available PhD Positions
-
-Deadline: 06/01/2021
-
-- **EASTBIO Machine learning driven codon optimisation for heterologous protein expression**. [Info](https://bit.ly/38zryr4)
-- **A biofoundry scale platform for DNA constructs verification and design for manufacturability**.
-[Info](https://bit.ly/3eW5xnu)
-- **Accurate methods for rare variant calling in low-coverage cancer exome sequencing data**. [Info](https://bit.ly/3khu4V7)
-
-### How to join
-
-* **Postdocs**: Email Dr Stracquadanio your CV, 1 recent research article,
-  1-page statement with your i) research experience, ii) your current research
-  interests and iii) how you fit and can contribute to the team. Please, arrange
-  2 reference letters to be sent directly to Dr Stracquadanio.
-
-* **PhD students**: Email Dr Stracquadanio your CV, 1-page statement describing
-  i) your research interests, ii) how your formal training would allow you to
-  succeed as a graduate student, and iii) how you would fit with the lab.
-  Please, arrange 1 reference letter to be sent directly to Dr Stracquadanio.
-
-*  **Undergraduate students**: We welcome undergraduate and post-graduate
-   students to join the team to get research experience. However, to be
-   productive, students should have already taken relevant programming,
-   mathematics or bioinformatics modules.
-
-
 ### Funding opportunities
+
 There are a number of funding opportunities depending on your career stage,
 along with ongoing funded projects in the lab. Please, mention the schemes you
 are eligible for in your correspondence with Dr Stracquadanio.
 
-#### Postdocs 
+#### Postdocs
+
 * [EMBO Fellowships](http://www.embo.org/funding-awards/fellowships)
 * [Marie Curie Fellowships](http://ec.europa.eu/research/mariecurieactions/about/individual-fellowships_en)
 * [Newton fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
@@ -55,6 +30,7 @@ are eligible for in your correspondence with Dr Stracquadanio.
 * [Leverhulme Trust Fellowships](https://www.leverhulme.ac.uk/funding/grant-schemes/early-career-fellowships)
 
 #### PhD students
+
 * [University of Edinburgh - postgraduate funding portal](https://www.ed.ac.uk/student-funding/postgraduate)
 * [University of Edinburgh - Global fellowship](https://www.ed.ac.uk/student-funding/postgraduate/international/global/research)
 * [University of Edinburgh - China Scholarship Council](https://www.ed.ac.uk/student-funding/postgraduate/international/region/asia/china-council)
@@ -66,5 +42,6 @@ are eligible for in your correspondence with Dr Stracquadanio.
 * [Carnegie Trust](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/)
 
 #### Undergraduate students
+
 * [Genetics Society UK - Summer studentship](https://genetics.org.uk/grants/summer-studentships/)
 * [Wellcome Trust Biomedical Vacation Scholarship](https://wellcome.ac.uk/grant-funding/schemes/biomedical-vacation-scholarships)
